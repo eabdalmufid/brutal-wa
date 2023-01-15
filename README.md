@@ -51,6 +51,6 @@ python3 brutal.py
 
 ## UPDATE SCRIPT
 ```bash
-cd brutal
+cd Brutal-WA
 git pull
 ```
